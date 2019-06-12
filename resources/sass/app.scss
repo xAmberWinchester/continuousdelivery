@@ -1,0 +1,115 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+
+ html, body {
+     color: whitesmoke;
+     font-family: 'Nunito', sans-serif;
+     font-weight: 200;
+     height: 100vh;
+     background-image: linear-gradient(to bottom right, darkblue, lightblue, lightpink);
+     background-size: 100vw 250vh;
+     overflow-x: hidden;
+ }
+
+::-webkit-scrollbar {
+    display:none;
+}
+
+
+.full-height {
+    height: 100vh;
+}
+
+.navbar {
+    background: url('https://trophicproducts.com/wp-content/uploads/2015/04/header-bg-nature3.jpg') no-repeat;
+    background-position: 0% 10%;
+    width: 100vw;
+    height: 25vh;
+    position: absolute;
+    left:0;
+    padding: 0px;
+    box-shadow: 0 10px 1px rgba(0, 0, 0, 0.04);
+    display: inline-block;
+    z-index: 300;
+}
+
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a {
+    color: whitesmoke;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.inhoud {
+    margin-top: 30vh;
+    margin-left: 2vw;
+}
+
+.doggos {
+    margin-right: 10vw;
+    margin-top: 10vh;
+    float: right;
+    width: 25vw;
+    height: 40vh;
+}
+.table-header {
+    //margin-top: 30vh;
+    color: black;
+}
+.opdrachtform{
+    margin-top: 30vh;
+}
+//.class-header{
+//    margin-top: 20vh;
+//}
+.table{
+    color: black;
+}
+.update-button {
+    background-color: #f49e42;
+}
+
+.update-button:hover {
+    background-color: #f48f42;
+}
+.card-top{
+    margin-top: 30vh;
+}
+.card-bottom{
+    margin-bottom: 20vh;
+}
