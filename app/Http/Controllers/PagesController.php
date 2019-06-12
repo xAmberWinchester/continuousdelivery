@@ -21,7 +21,7 @@ class PagesController extends Controller
     public function opdrachten(){
         return view('opdrachten');
     }
-
+    
 //    public function dashboard()
 //    {
 //        $myResults = [
