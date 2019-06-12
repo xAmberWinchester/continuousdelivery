@@ -41,3 +41,7 @@ Route::get('/series/create',  'SeriesController@create');
 Route::post('/series', 'SeriesController@store');
 Route::get('/series/{series}/edit', 'SeriesController@edit');
 Route::patch('/series/{series}', 'SeriesController@update');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
