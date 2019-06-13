@@ -11,6 +11,10 @@
 |
 */
 
+if (env('APP_ENV') === 'production') {
+    URL::forceSchema('https');
+}
+
 
 Route::get('/', 'PagesController@index');
 //Route::get('/home', 'PagesController@welcome');
@@ -45,3 +49,4 @@ Route::patch('/series/{series}', 'SeriesController@update');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
