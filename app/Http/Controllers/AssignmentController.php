@@ -11,24 +11,24 @@ class AssignmentController extends Controller
     public function index()
     {
         $assignments = \App\Assignment::all();
-        return view('Assignments.index', compact('assignments'));
+        return view('assignments.index', compact('assignments'));
     }
 
     public function create()
     {
-        return view('Assignments.create');
+        return view('assignments.create');
     }
 
     public function show(Assignment $assignment)
     {
-        return view('Assignments.show', compact('assignment'));
+        return view('assignments.show', compact('assignment'));
     }
 
 
     public function edit($id)
     {
         $assignments = \App\Assignment::find($id);
-        return view('Assignments.edit', compact('assignments'));
+        return view('assignments.edit', compact('assignments'));
     }
 
     public function store(Request $request)
