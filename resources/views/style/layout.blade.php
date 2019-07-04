@@ -8,7 +8,7 @@
 ?>
 <html>
 <head>
-    <link rel="stylesheet" href="{{asset('css/app.css')}}">
+    <link rel="stylesheet" href="{{secure_asset('css/app.css')}}">
 </head>
 <body>
 <header class="row header">

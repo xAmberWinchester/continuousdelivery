@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/app/Http/Controllers/AssignmentController.php" line="23" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd8fb6e3-e906-45ff-9ca0-b4b2031e2fbe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="bd8fb6e3-e906-45ff-9ca0-b4b2031e2fbe" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -422,12 +420,12 @@
       <workItem from="1556175747183" duration="31000" />
       <workItem from="1557217497117" duration="762000" />
       <workItem from="1560324393332" duration="665000" />
-      <workItem from="1560415204402" duration="2964000" />
+      <workItem from="1560415204402" duration="3382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88938000" />
+    <option name="totallyTimeSpent" value="89356000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {{--<link href="">--}}
-    <link rel="stylesheet" href="{{asset('css/a[[.css')}}">
+    <link rel="stylesheet" href="{{secure_asset('css/a[[.css')}}">
 
 </head>
     <div class="navbar">
