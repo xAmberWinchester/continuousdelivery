@@ -17,7 +17,7 @@
 <body>
 <div class="inhoud">
     <div class="Kenmerken">
-        <h3>Lorem Ipsum dolor</h3>
+        <h3>Werkt dit eindelijk?</h3>
         <ul>
             <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
             <li>Aenean ac lectus in ex hendrerit posuere et eget lectus</li>
