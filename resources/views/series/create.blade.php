@@ -19,7 +19,7 @@
         {{csrf_field()}}
 
         <div class="form-group">
-            <label for="serieTitle">De titel</label>
+            <label for="serieTitle">De Series van de naam</label>
             <input type="text" class="form-control" id="serieTitle" name="serieTitle" placeholder="Titel" required="required" >
         </div>
         <div class="form-group">
