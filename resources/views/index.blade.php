@@ -17,10 +17,8 @@
 <body>
 <div class="inhoud">
     <div class="Kenmerken">
-        <h3>Love it</h3>
+        <h3>Lorum ipsum</h3>
         <ul>
-            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
             <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
             <li>Aenean ac lectus in ex hendrerit posuere et eget lectus</li>
             <li>Vestibulum ornare dapibus ex, vel lobortis orci commodo at</li>
