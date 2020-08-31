@@ -17,7 +17,7 @@
 <body>
 <div class="inhoud">
     <div class="Kenmerken">
-        <h3>WERKT DIT PLZ</h3>
+        <h3>Love it</h3>
         <ul>
             <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
             <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
